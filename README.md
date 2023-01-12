@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🏠 Thank you for visiting my academic page: https://chuhaojin.github.io.
 - 📫 How to reach me: jinchuhao@ruc.edu.cn.
 
-<img src="https://github-readme-stats.vercel.app/api?username=chuhaojin&count_private=true&show_icons=true" width="67%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuhaojin&exclude_repo=PL0_Compiler&langs_count=4" width="33%">
+<img src="https://github-readme-stats.vercel.app/api?username=chuhaojin&count_private=true&show_icons=true" width="66%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuhaojin&exclude_repo=PL0_Compiler&langs_count=4" width="32%">
 
 
 
